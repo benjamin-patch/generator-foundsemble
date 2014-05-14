@@ -2,8 +2,8 @@
 
 > [Yeoman](http://yeoman.io) generator
 
-
 ## Getting Started
+This repository is not ready for use at this time. Please check back later.
 
 ### What is Yeoman?
 
